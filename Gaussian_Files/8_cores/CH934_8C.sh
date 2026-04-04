@@ -10,7 +10,7 @@
 #SBATCH --nodes=1                    # Number of nodes (always 1 for Gaussian)
 #SBATCH --ntasks=8                   # Number of CPU cores (change for 4/8/16 runs)
 #SBATCH --time=00:15:00              # Max runtime
-#SBATCH --job-name=ANTCEN_2c         # Job name
+#SBATCH --job-name=ANTCEN_8c         # Job name
 #SBATCH --output=slurm-%j.out        # Output file (%j = job ID)
 
 # ===============================
