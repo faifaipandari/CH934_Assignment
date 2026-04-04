@@ -1,0 +1,20 @@
+# 2 Cores SCF Energy (A.U.)
+ANTCEN = -536.560205667 A.U.
+PENCEN = -842.132116114 A.U.
+TETCEN = -689.346745198 A.U.
+
+# 4 Cores SCF Energy (A.U.)
+
+ANTCEN
+PENCEN
+TETCEN
+# 8 Cores SCF Energy (A.U.)
+
+ANTCEN
+PENCEN
+TETCEN
+
+# 16 Cores SCF Energy (A.U.)
+ANTCEN
+PENCEN
+TETCEN
