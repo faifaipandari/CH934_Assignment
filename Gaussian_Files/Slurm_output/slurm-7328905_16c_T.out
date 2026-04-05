@@ -1,0 +1,29 @@
+===================================================================================
+SLURM Job ID:            7328905
+Submit time:             Sat Apr 04 21:00:55 BST 2026 (Unix Epoch time: 1775332855)
+Start time:              Sat Apr 04 21:01:21 BST 2026 (Unix Epoch time: 1775332881)
+No. nodes:               1
+No. tasks:               16
+Job name:                TETCEN_16c
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/yyb25113/CH934/16_Cores
+Script name:             /users/yyb25113/CH934/16_Cores/CH934_16C_T.sh
+Master node:             wee20
+Nodes used:              wee20
+Task distribution:       
+===================================================================================
+
+Job started at: Sat Apr  4 21:01:21 BST 2026
+Hostname: wee20.hpc.strath.ac.uk
+Working directory: /users/yyb25113/CH934/16_Cores
+Job ID: 7328905
+Requested cores: 16
+Job finished at: Sat Apr  4 21:01:57 BST 2026
+Elapsed seconds: 36
+===================================================================================
+SLURM job 7328905 ended:     Sat Apr 04 21:01:57 BST 2026 (Unix Epoch time: 1775332917)
+This is an estimated end time using the 'date' command from node wee20.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7328905 -X --format=Submit,Start,End,Elapsed'
+======================================================================================

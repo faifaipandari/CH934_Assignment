@@ -1,0 +1,29 @@
+===================================================================================
+SLURM Job ID:            7328828
+Submit time:             Sat Apr 04 18:02:56 BST 2026 (Unix Epoch time: 1775322176)
+Start time:              Sat Apr 04 18:03:18 BST 2026 (Unix Epoch time: 1775322198)
+No. nodes:               1
+No. tasks:               2
+Job name:                PENCEN_2c
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/yyb25113/CH934
+Script name:             /users/yyb25113/CH934/CH934_2core_P.sh
+Master node:             wee20
+Nodes used:              wee20
+Task distribution:       
+===================================================================================
+
+Job started at: Sat Apr  4 18:03:19 BST 2026
+Hostname: wee20.hpc.strath.ac.uk
+Working directory: /users/yyb25113/CH934
+Job ID: 7328828
+Requested cores: 2
+Job finished at: Sat Apr  4 18:09:29 BST 2026
+Elapsed seconds: 370
+===================================================================================
+SLURM job 7328828 ended:     Sat Apr 04 18:09:29 BST 2026 (Unix Epoch time: 1775322569)
+This is an estimated end time using the 'date' command from node wee20.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7328828 -X --format=Submit,Start,End,Elapsed'
+======================================================================================

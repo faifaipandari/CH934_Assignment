@@ -1,0 +1,29 @@
+===================================================================================
+SLURM Job ID:            7328902
+Submit time:             Sat Apr 04 20:56:01 BST 2026 (Unix Epoch time: 1775332561)
+Start time:              Sat Apr 04 20:56:21 BST 2026 (Unix Epoch time: 1775332581)
+No. nodes:               1
+No. tasks:               16
+Job name:                ANTCEN_16c
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/yyb25113/CH934/16_Cores
+Script name:             /users/yyb25113/CH934/16_Cores/CH934_16C_A.sh
+Master node:             wee20
+Nodes used:              wee20
+Task distribution:       
+===================================================================================
+
+Job started at: Sat Apr  4 20:56:21 BST 2026
+Hostname: wee20.hpc.strath.ac.uk
+Working directory: /users/yyb25113/CH934/16_Cores
+Job ID: 7328902
+Requested cores: 16
+Job finished at: Sat Apr  4 20:56:57 BST 2026
+Elapsed seconds: 36
+===================================================================================
+SLURM job 7328902 ended:     Sat Apr 04 20:56:57 BST 2026 (Unix Epoch time: 1775332617)
+This is an estimated end time using the 'date' command from node wee20.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7328902 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
